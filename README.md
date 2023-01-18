@@ -2,11 +2,20 @@
 
 # PLEASE SEE THE PDF FOR BETTER UNDERSTANDING: https://github.com/A-GHOSH-dev/TinyHack/blob/master/lifeai.pdf
 
+![image](https://user-images.githubusercontent.com/75447439/213180933-7ee3cd99-7d14-4b53-b21f-014aa9792495.png)
+![image](https://user-images.githubusercontent.com/75447439/213181031-86dc0783-f21e-493e-b91c-26cea43d4ed4.png)
+![image](https://user-images.githubusercontent.com/75447439/213181096-d46f0e57-bdef-4b02-b4fc-c5383cda51bd.png)
+![image](https://user-images.githubusercontent.com/75447439/213181154-838a55ae-5258-4f66-8c99-0059eb6d5152.png)
+![image](https://user-images.githubusercontent.com/75447439/213181199-4cce1228-4cff-45d3-9860-e10d9147fdd1.png)
+![image](https://user-images.githubusercontent.com/75447439/213181254-32a31ab2-c068-46ed-a9d8-12b43a84feab.png)
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/75447439/213165585-1a5fa1a4-115e-463d-86e9-0b8658eaf854.png)
 ![image](https://user-images.githubusercontent.com/75447439/213180465-eae81229-56f2-4fdd-aa3e-080ee8de4111.png)
 ![image](https://user-images.githubusercontent.com/75447439/213180578-adb63a2b-f342-442b-9e42-ad639ace4340.png)
-
-
 ![image](https://user-images.githubusercontent.com/75447439/213167141-663d0a57-2574-44f2-a998-e5b070c87197.png)
 ![image](https://user-images.githubusercontent.com/75447439/213167227-f55b0657-b58c-4e54-bb74-5aaf9a1bc684.png)
 ![image](https://user-images.githubusercontent.com/75447439/213179330-daeef24f-2e3c-4687-8a49-3e2198dc15e0.png)
