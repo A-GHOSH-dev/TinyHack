@@ -2,6 +2,8 @@
 
 # PLEASE SEE THE PDF FOR BETTER UNDERSTANDING: https://github.com/A-GHOSH-dev/TinyHack/blob/master/lifeai.pdf
 
+![image](https://user-images.githubusercontent.com/75447439/213165585-1a5fa1a4-115e-463d-86e9-0b8658eaf854.png)
+
 Multiple Disease detection Software in Django Python.
 
 Alzheimer's disease Detection from fMRI Scans from ADNI using CNN, Deep Learning, Federated Learning implementation.
