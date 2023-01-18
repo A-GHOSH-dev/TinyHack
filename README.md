@@ -3,11 +3,17 @@
 # PLEASE SEE THE PDF FOR BETTER UNDERSTANDING: https://github.com/A-GHOSH-dev/TinyHack/blob/master/lifeai.pdf
 
 ![image](https://user-images.githubusercontent.com/75447439/213165585-1a5fa1a4-115e-463d-86e9-0b8658eaf854.png)
+![image](https://user-images.githubusercontent.com/75447439/213180465-eae81229-56f2-4fdd-aa3e-080ee8de4111.png)
+![image](https://user-images.githubusercontent.com/75447439/213180578-adb63a2b-f342-442b-9e42-ad639ace4340.png)
+
 
 ![image](https://user-images.githubusercontent.com/75447439/213167141-663d0a57-2574-44f2-a998-e5b070c87197.png)
 ![image](https://user-images.githubusercontent.com/75447439/213167227-f55b0657-b58c-4e54-bb74-5aaf9a1bc684.png)
+![image](https://user-images.githubusercontent.com/75447439/213179330-daeef24f-2e3c-4687-8a49-3e2198dc15e0.png)
 ![image](https://user-images.githubusercontent.com/75447439/213167254-290864ce-dc96-4524-abb5-dbb32f8fec38.png)
+![image](https://user-images.githubusercontent.com/75447439/213179711-7d69a3b6-32a0-4685-a9e0-a38f3580f95a.png)
 ![image](https://user-images.githubusercontent.com/75447439/213167270-63c8e4b9-d55f-4956-b918-7a4a5abe5c66.png)
+![image](https://user-images.githubusercontent.com/75447439/213179982-35f6fbb7-2748-4d21-a2f4-2bdeb812de7b.png)
 
 
 Multiple Disease detection Software in Django Python.
