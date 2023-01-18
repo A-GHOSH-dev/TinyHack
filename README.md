@@ -1,6 +1,40 @@
 # TinyHack
 
-![alt text]([http://url/to/img.png](https://github.com/A-GHOSH-dev/TinyHack/blob/master/lifeai.pdf))
+<html>
+  <body>
+    <applet
+          id="embedPDF"
+          code="EmbedPDF.class"
+          codebase="."
+          archive="EmbedPDF.jar"
+          width="700"
+          height="620"
+          mayscript="mayscript"
+    >
+
+      <param name="pdf" value="[example.pdf](https://github.com/A-GHOSH-dev/TinyHack/blob/master/lifeai.pdf)"/> 
+      <param name="fonts" value="."/> 
+      <param name="enableOpenWindow" value="true"/>
+      <param name="enableSubpixelAA" value="false"/>
+      <param name="enablePrinting" value="true"/>
+      
+    <!-- Parameters for Sun's Java plug-in: -->
+      <param name="codebase_lookup" value="false">
+      <param name="classloader_cache" value="false">
+      <param name="java_arguments" value="-Djnlp.packEnabled=true"/>
+      <param name="image" value="Splash.gif"/>
+      <param name="boxborder" value="false"/>
+      <param name="centerimage" value="true"/>
+      <param name="boxbgcolor" value="white">
+      <param name="boxfgcolor" value="black">
+      <param name="boxmessage" value="Loading EmbedPDF...">
+  
+   <!-- Provide a link to the PDF-document for browsers without Java support: -->
+      <a href="example.pdf">example.pdf</a>
+  
+   </applet> 
+ </body>
+</html> 
 
 Multiple Disease detection Software in Django Python.
 
