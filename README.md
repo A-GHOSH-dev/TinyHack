@@ -4,6 +4,12 @@
 
 ![image](https://user-images.githubusercontent.com/75447439/213165585-1a5fa1a4-115e-463d-86e9-0b8658eaf854.png)
 
+![image](https://user-images.githubusercontent.com/75447439/213167141-663d0a57-2574-44f2-a998-e5b070c87197.png)
+![image](https://user-images.githubusercontent.com/75447439/213167227-f55b0657-b58c-4e54-bb74-5aaf9a1bc684.png)
+![image](https://user-images.githubusercontent.com/75447439/213167254-290864ce-dc96-4524-abb5-dbb32f8fec38.png)
+![image](https://user-images.githubusercontent.com/75447439/213167270-63c8e4b9-d55f-4956-b918-7a4a5abe5c66.png)
+
+
 Multiple Disease detection Software in Django Python.
 
 Alzheimer's disease Detection from fMRI Scans from ADNI using CNN, Deep Learning, Federated Learning implementation.
