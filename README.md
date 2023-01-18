@@ -1,6 +1,6 @@
 # TinyHack
 
-[embed]https://github.com/A-GHOSH-dev/TinyHack/blob/master/lifeai.pdf[/embed]
+![alt text]([http://url/to/img.png](https://github.com/A-GHOSH-dev/TinyHack/blob/master/lifeai.pdf))
 
 Multiple Disease detection Software in Django Python.
 
