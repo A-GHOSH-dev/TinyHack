@@ -23,3 +23,10 @@ model training by averaging the parameters
 mutual consensus knowledge distillation while preserving data privacy
 
 considers local performance and similarity to improving performance
+
+
+1. User just uploads data/MRI scan and gets the predicted results in seconds. User friendly UI/UX, simple software, light weighted. Mutiple diseases detected in a single software. 
+
+2. It is easily feasible, the disease prediction part. The federated learning is a new field and is gradually developing but companies like Google, Intel, NVIDIA have already started using it. Hence it is feasible for common.
+
+3. Federated Learning approach with Deep learning is the uniqueness. Federated Average Conditional Mutual in Alzheimer’s Detection is the unique algorithm I developed. Federated Learning is a new field and not yet fully eveloped. With my project, it will be a step towards development of this field.
